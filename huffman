@@ -98,5 +98,6 @@ class MyComparator implements Comparator<HuffmanNode> {
 		return x.data - y.data;
 	}
 }
-
+//FATMA PINAR HAYIRLI
+//02190201019
 
